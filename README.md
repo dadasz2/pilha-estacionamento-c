@@ -6,7 +6,7 @@ Sistema de gerenciamento de um estacionamento de corredor único desenvolvido em
 
 **Disciplina:** DSA (Estrutura de Dados e Algoritmos)
 
-**Autores:** Dácio ______ e __________
+**Autores:** Dácio Rodrigues
 
 **Objetivo:** Praticar implementação de pilhas encadeadas, alocação dinâmica de memória, manipulação de arquivos e estruturas de dados em linguagem C.
 
@@ -236,7 +236,7 @@ Esse comportamento representa exatamente um estacionamento de corredor único.
 
 # Autor
 
-Desenvolvido por Dácio ______ e __________.
+Desenvolvido por Dácio Rodrigues.
 
 ---
 
