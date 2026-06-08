@@ -1,5 +1,3 @@
-Segue um README no mesmo estilo do exemplo que você enviou, adaptado para o seu projeto de estacionamento utilizando Pilha.
-
 # Sistema de Estacionamento
 
 Sistema de gerenciamento de um estacionamento de corredor único desenvolvido em C, utilizando uma pilha encadeada e persistência em arquivo. O programa permite estacionar veículos, listar os veículos presentes, retirar o veículo da saída e salvar os dados automaticamente.
